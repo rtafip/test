@@ -1,3 +1,5 @@
 试一试能不能用git好了
 嗯，这是新的一行
 再来一行用来看一看diff怎么用的
+changes 1
+changes 2
